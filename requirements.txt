@@ -1,0 +1,17 @@
+# audio io
+torchaudio
+torchcodec
+
+# dcae
+transformers
+diffusers
+
+# bigvgan
+librosa
+scipy
+
+# train
+tqdm
+tensorboard
+
+
